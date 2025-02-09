@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.6)  19 DEC 2024 22:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.6)  25 DEC 2024 10:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2087,7 +2087,7 @@ Package hyperref Info: Link coloring OFF on input line 9.
 Package pgfplots notification 'compat/show suggested version=true': you might b
 enefit from \pgfplotsset{compat=1.18} (current compat level: 1.13).
 
-(../data/FINAL-SEM1-004.tex
+(../data/FINAL-SEM1-005-DA.tex
 LaTeX Font Info:    Trying to load font information for U+rsfs on input line 1.
 
 
@@ -2110,7 +2110,28 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 1.
 (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (19.84521pt too wide) in paragraph at lines 1--9
+Overfull \hbox (34.0716pt too wide) in paragraph at lines 1--9
+[][] 
+ []
+
+LaTeX Font Info:    Trying to load font information for T5+qcs on input line 13
+.
+(c:/texlive/2024/texmf-dist/tex/latex/tex-gyre/t5qcs.fd
+File: t5qcs.fd 2009/09/25 v1.2 font definition file for T5/qcs
+)
+(./ans/FINAL-SEM1-005-TN.tex) (./ans/FINAL-SEM1-005-TF.tex)
+(./ans/FINAL-SEM1-005-TL.tex))
+<../extra/Logo.png, id=43, 1606.0pt x 402.50375pt>
+File: ../extra/Logo.png Graphic file (type png)
+<use ../extra/Logo.png>
+Package pdftex.def Info: ../extra/Logo.png  used on input line 73.
+(pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
+ [1
+
+{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/
+texmf-dist/fonts/enc/dvips/tex-gyre/q-t5.enc} <../extra/Logo.png>] (../data/FIN
+AL-SEM1-005.tex
+Overfull \hbox (34.0716pt too wide) in paragraph at lines 1--9
 [][]
  []
 
@@ -2119,253 +2140,503 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--9
 
  []
 
-Output from handle ans going to ans/FINAL-SEM1-004-TN.tex
+
+pdfTeX warning (ext4): destination with the same identifier (name{section.0.1})
+ has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.9 ...nghiệm nhiều phương án lựa chọn}
+                                                  
+Output from handle ans going to ans/FINAL-SEM1-005-TN.tex
 \ans@file=\write10
-\openout10 = `ans/FINAL-SEM1-004-TN.tex'.
+\openout10 = `ans/FINAL-SEM1-005-TN.tex'.
 
 Package hyperref Info: bookmark level for unknown ex defaults to 0 on input lin
 e 15.
-<../figs/FINAL-SEM1-004-1.jpg, id=55, 395.076pt x 247.1634pt>
-File: ../figs/FINAL-SEM1-004-1.jpg Graphic file (type jpg)
-<use ../figs/FINAL-SEM1-004-1.jpg>
-Package pdftex.def Info: ../figs/FINAL-SEM1-004-1.jpg  used on input line 77.
-(pdftex.def)             Requested size: 158.02759pt x 98.8636pt.
-File: ../figs/FINAL-SEM1-004-1.jpg Graphic file (type jpg)
-<use ../figs/FINAL-SEM1-004-1.jpg>
-Package pdftex.def Info: ../figs/FINAL-SEM1-004-1.jpg  used on input line 77.
-(pdftex.def)             Requested size: 158.02759pt x 98.8636pt.
-<../extra/Logo.png, id=56, 1606.0pt x 402.50375pt>
+
+Overfull \hbox (1.34036pt too wide) in paragraph at lines 20--20
+[][] 
+ []
+
+<../figs/FINAL-SEM1-005-1.jpg, id=59, 146.2263pt x 147.4308pt>
+File: ../figs/FINAL-SEM1-005-1.jpg Graphic file (type jpg)
+<use ../figs/FINAL-SEM1-005-1.jpg>
+Package pdftex.def Info: ../figs/FINAL-SEM1-005-1.jpg  used on input line 30.
+(pdftex.def)             Requested size: 73.11296pt x 73.71521pt.
+<../figs/FINAL-SEM1-005-2.png, id=60, 112.16907pt x 106.14656pt>
+File: ../figs/FINAL-SEM1-005-2.png Graphic file (type png)
+<use ../figs/FINAL-SEM1-005-2.png>
+Package pdftex.def Info: ../figs/FINAL-SEM1-005-2.png  used on input line 30.
+(pdftex.def)             Requested size: 67.30194pt x 63.68842pt.
+<../figs/FINAL-SEM1-005-3.jpg, id=61, 217.81375pt x 195.73125pt>
+File: ../figs/FINAL-SEM1-005-3.jpg Graphic file (type jpg)
+<use ../figs/FINAL-SEM1-005-3.jpg>
+Package pdftex.def Info: ../figs/FINAL-SEM1-005-3.jpg  used on input line 30.
+(pdftex.def)             Requested size: 65.34462pt x 58.71982pt.
+<../figs/FINAL-SEM1-005-4.jpg, id=62, 225.84375pt x 225.84375pt>
+File: ../figs/FINAL-SEM1-005-4.jpg Graphic file (type jpg)
+<use ../figs/FINAL-SEM1-005-4.jpg>
+Package pdftex.def Info: ../figs/FINAL-SEM1-005-4.jpg  used on input line 30.
+(pdftex.def)             Requested size: 67.75363pt x 67.75363pt.
+File: ../figs/FINAL-SEM1-005-1.jpg Graphic file (type jpg)
+<use ../figs/FINAL-SEM1-005-1.jpg>
+Package pdftex.def Info: ../figs/FINAL-SEM1-005-1.jpg  used on input line 30.
+(pdftex.def)             Requested size: 73.11296pt x 73.71521pt.
+
+Overfull \hbox (1.34036pt too wide) in paragraph at lines 30--30
+[][] 
+ []
+
+File: ../figs/FINAL-SEM1-005-2.png Graphic file (type png)
+<use ../figs/FINAL-SEM1-005-2.png>
+Package pdftex.def Info: ../figs/FINAL-SEM1-005-2.png  used on input line 30.
+(pdftex.def)             Requested size: 67.30194pt x 63.68842pt.
+File: ../figs/FINAL-SEM1-005-3.jpg Graphic file (type jpg)
+<use ../figs/FINAL-SEM1-005-3.jpg>
+Package pdftex.def Info: ../figs/FINAL-SEM1-005-3.jpg  used on input line 30.
+(pdftex.def)             Requested size: 65.34462pt x 58.71982pt.
+File: ../figs/FINAL-SEM1-005-4.jpg Graphic file (type jpg)
+<use ../figs/FINAL-SEM1-005-4.jpg>
+Package pdftex.def Info: ../figs/FINAL-SEM1-005-4.jpg  used on input line 30.
+(pdftex.def)             Requested size: 67.75363pt x 67.75363pt.
+<../figs/FINAL-SEM1-005-5.jpg, id=63, 559.8516pt x 380.1402pt>
+File: ../figs/FINAL-SEM1-005-5.jpg Graphic file (type jpg)
+<use ../figs/FINAL-SEM1-005-5.jpg>
+Package pdftex.def Info: ../figs/FINAL-SEM1-005-5.jpg  used on input line 35.
+(pdftex.def)             Requested size: 111.96832pt x 76.02669pt.
+File: ../figs/FINAL-SEM1-005-5.jpg Graphic file (type jpg)
+<use ../figs/FINAL-SEM1-005-5.jpg>
+Package pdftex.def Info: ../figs/FINAL-SEM1-005-5.jpg  used on input line 35.
+(pdftex.def)             Requested size: 111.96832pt x 76.02669pt.
+
+Overfull \hbox (1.34036pt too wide) in paragraph at lines 43--43
+[][] 
+ []
+
+
+Overfull \hbox (1.4772pt too wide) in paragraph at lines 53--53
+[][] 
+ []
+
+
+Overfull \hbox (1.90292pt too wide) in paragraph at lines 63--63
+[][] 
+ []
+
+
+Overfull \hbox (1.4772pt too wide) in paragraph at lines 73--73
+[][] 
+ []
+
 File: ../extra/Logo.png Graphic file (type png)
 <use ../extra/Logo.png>
-Package pdftex.def Info: ../extra/Logo.png  used on input line 104.
+Package pdftex.def Info: ../extra/Logo.png  used on input line 74.
 (pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
-[1
+[2 <../figs/FINAL-SEM1-005-1.jpg> <../figs/FINAL-SEM1-005-2.png> <../figs/FINAL
+-SEM1-005-3.jpg> <../figs/FINAL-SEM1-005-4.jpg> <../figs/FINAL-SEM1-005-5.jpg>]
 
-{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../figs/FINAL-S
-EM1-004-1.jpg> <../extra/Logo.png>]
-<../figs/FINAL-SEM1-004-2.jpg, id=81, 178.16562pt x 125.46875pt>
-File: ../figs/FINAL-SEM1-004-2.jpg Graphic file (type jpg)
-<use ../figs/FINAL-SEM1-004-2.jpg>
-Package pdftex.def Info: ../figs/FINAL-SEM1-004-2.jpg  used on input line 123.
-(pdftex.def)             Requested size: 106.90019pt x 75.28181pt.
-File: ../figs/FINAL-SEM1-004-2.jpg Graphic file (type jpg)
-<use ../figs/FINAL-SEM1-004-2.jpg>
-Package pdftex.def Info: ../figs/FINAL-SEM1-004-2.jpg  used on input line 123.
-(pdftex.def)             Requested size: 106.90019pt x 75.28181pt.
-<../figs/FINAL-SEM1-004-3.jpg, id=82, 143.53625pt x 105.39375pt>
-File: ../figs/FINAL-SEM1-004-3.jpg Graphic file (type jpg)
-<use ../figs/FINAL-SEM1-004-3.jpg>
-Package pdftex.def Info: ../figs/FINAL-SEM1-004-3.jpg  used on input line 145.
-(pdftex.def)             Requested size: 86.1224pt x 63.23672pt.
-File: ../figs/FINAL-SEM1-004-3.jpg Graphic file (type jpg)
-<use ../figs/FINAL-SEM1-004-3.jpg>
-Package pdftex.def Info: ../figs/FINAL-SEM1-004-3.jpg  used on input line 145.
-(pdftex.def)             Requested size: 86.1224pt x 63.23672pt.
-<../figs/FINAL-SEM1-004-4.jpg, id=83, 559.08875pt x 137.01187pt>
-File: ../figs/FINAL-SEM1-004-4.jpg Graphic file (type jpg)
-<use ../figs/FINAL-SEM1-004-4.jpg>
-Package pdftex.def Info: ../figs/FINAL-SEM1-004-4.jpg  used on input line 162.
-(pdftex.def)             Requested size: 391.35945pt x 95.90765pt.
-<../figs/FINAL-SEM1-004-5.jpg, id=84, 94.85437pt x 102.88437pt>
-File: ../figs/FINAL-SEM1-004-5.jpg Graphic file (type jpg)
-<use ../figs/FINAL-SEM1-004-5.jpg>
-Package pdftex.def Info: ../figs/FINAL-SEM1-004-5.jpg  used on input line 179.
-(pdftex.def)             Requested size: 75.88358pt x 82.30759pt.
-File: ../figs/FINAL-SEM1-004-5.jpg Graphic file (type jpg)
-<use ../figs/FINAL-SEM1-004-5.jpg>
-Package pdftex.def Info: ../figs/FINAL-SEM1-004-5.jpg  used on input line 179.
-(pdftex.def)             Requested size: 75.88358pt x 82.30759pt.
+Overfull \hbox (1.4772pt too wide) in paragraph at lines 83--83
+[][] 
+ []
+
+
+Overfull \hbox (2.03976pt too wide) in paragraph at lines 95--95
+[][] 
+ []
+
+
+Overfull \hbox (2.03976pt too wide) in paragraph at lines 105--105
+[][] 
+ []
+
+<../figs/FINAL-SEM1-005-6.jpg, id=79, 161.60374pt x 68.255pt>
+File: ../figs/FINAL-SEM1-005-6.jpg Graphic file (type jpg)
+<use ../figs/FINAL-SEM1-005-6.jpg>
+Package pdftex.def Info: ../figs/FINAL-SEM1-005-6.jpg  used on input line 109.
+(pdftex.def)             Requested size: 145.44202pt x 61.42891pt.
+File: ../figs/FINAL-SEM1-005-6.jpg Graphic file (type jpg)
+<use ../figs/FINAL-SEM1-005-6.jpg>
+Package pdftex.def Info: ../figs/FINAL-SEM1-005-6.jpg  used on input line 109.
+(pdftex.def)             Requested size: 145.44202pt x 61.42891pt.
+
+Overfull \hbox (2.03976pt too wide) in paragraph at lines 117--117
+[][] 
+ []
+
+
+Overfull \hbox (1.34036pt too wide) in paragraph at lines 127--127
+[][] 
+ []
+
+
+Overfull \hbox (1.34036pt too wide) in paragraph at lines 137--137
+[][] 
+ []
+
 File: ../extra/Logo.png Graphic file (type png)
 <use ../extra/Logo.png>
-Package pdftex.def Info: ../extra/Logo.png  used on input line 190.
+Package pdftex.def Info: ../extra/Logo.png  used on input line 155.
 (pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
- [2 <../figs/FINAL-SEM1-004-2.jpg> <../figs/FINAL-SEM1-004-3.jpg> <../figs/FINA
-L-SEM1-004-4.jpg> <../figs/FINAL-SEM1-004-5.jpg>]
-Output from handle ans going to ans/FINAL-SEM1-004-TF.tex
-\openout10 = `ans/FINAL-SEM1-004-TF.tex'.
+[3 <../figs/FINAL-SEM1-005-6.jpg>]
+Overfull \hbox (2.03976pt too wide) in paragraph at lines 163--163
+[][] 
+ []
 
-<../figs/FINAL-SEM1-004-6.jpg, id=96, 372.9132pt x 292.4526pt>
-File: ../figs/FINAL-SEM1-004-6.jpg Graphic file (type jpg)
-<use ../figs/FINAL-SEM1-004-6.jpg>
-Package pdftex.def Info: ../figs/FINAL-SEM1-004-6.jpg  used on input line 211.
-(pdftex.def)             Requested size: 111.87482pt x 87.73645pt.
+
+Overfull \hbox (1.34036pt too wide) in paragraph at lines 175--175
+[][] 
+ []
+
+<../figs/FINAL-SEM1-005-7.jpeg, id=92, 1129.21875pt x 752.8125pt>
+File: ../figs/FINAL-SEM1-005-7.jpeg Graphic file (type jpg)
+<use ../figs/FINAL-SEM1-005-7.jpeg>
+Package pdftex.def Info: ../figs/FINAL-SEM1-005-7.jpeg  used on input line 183.
+
+(pdftex.def)             Requested size: 90.33934pt x 60.22623pt.
+File: ../figs/FINAL-SEM1-005-7.jpeg Graphic file (type jpg)
+<use ../figs/FINAL-SEM1-005-7.jpeg>
+Package pdftex.def Info: ../figs/FINAL-SEM1-005-7.jpeg  used on input line 183.
+
+(pdftex.def)             Requested size: 90.33934pt x 60.22623pt.
+
+Overfull \hbox (1.34036pt too wide) in paragraph at lines 188--188
+[][] 
+ []
+
+
+Overfull \hbox (2.03976pt too wide) in paragraph at lines 198--198
+[][] 
+ []
+
+
+Overfull \hbox (1.4772pt too wide) in paragraph at lines 208--208
+[][] 
+ []
+
+LaTeX Font Info:    Font shape `U/BOONDOX-cal/m/n' will be
+(Font)              scaled to size 11.49753pt on input line 212.
+LaTeX Font Info:    Font shape `U/BOONDOX-cal/m/n' will be
+(Font)              scaled to size 8.40002pt on input line 212.
+LaTeX Font Info:    Font shape `U/BOONDOX-cal/m/n' will be
+(Font)              scaled to size 6.30002pt on input line 212.
+File: ../extra/Logo.png Graphic file (type png)
+<use ../extra/Logo.png>
+Package pdftex.def Info: ../extra/Logo.png  used on input line 221.
+(pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
+[4 <../figs/FINAL-SEM1-005-7.jpeg>]
+pdfTeX warning (ext4): destination with the same identifier (name{section.0.2})
+ has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.227 \section{Câu trắc nghiệm đúng/sai}
+                                               
+Output from handle ans going to ans/FINAL-SEM1-005-TF.tex
+\openout10 = `ans/FINAL-SEM1-005-TF.tex'.
+
+<../figs/FINAL-SEM1-005-8.jpg, id=103, 416.05438pt x 163.10938pt>
+File: ../figs/FINAL-SEM1-005-8.jpg Graphic file (type jpg)
+<use ../figs/FINAL-SEM1-005-8.jpg>
+Package pdftex.def Info: ../figs/FINAL-SEM1-005-8.jpg  used on input line 234.
+(pdftex.def)             Requested size: 208.02667pt x 81.55447pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{ex.1}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.211 ...ics[scale=0.3]{../figs/FINAL-SEM1-004-6}}
+l.234 ...ics[scale=0.5]{../figs/FINAL-SEM1-005-8}}
                                                   
-File: ../figs/FINAL-SEM1-004-6.jpg Graphic file (type jpg)
-<use ../figs/FINAL-SEM1-004-6.jpg>
-Package pdftex.def Info: ../figs/FINAL-SEM1-004-6.jpg  used on input line 211.
-(pdftex.def)             Requested size: 111.87482pt x 87.73645pt.
+File: ../figs/FINAL-SEM1-005-8.jpg Graphic file (type jpg)
+<use ../figs/FINAL-SEM1-005-8.jpg>
+Package pdftex.def Info: ../figs/FINAL-SEM1-005-8.jpg  used on input line 234.
+(pdftex.def)             Requested size: 208.02667pt x 81.55447pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{ex.2}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.221 	M
-        ột nhóm học sinh thực hành đo nhiệt dung riêng của nư...
-<../figs/FINAL-SEM1-004-7.jpg, id=97, 775.39688pt x 347.79938pt>
-File: ../figs/FINAL-SEM1-004-7.jpg Graphic file (type jpg)
-<use ../figs/FINAL-SEM1-004-7.jpg>
-Package pdftex.def Info: ../figs/FINAL-SEM1-004-7.jpg  used on input line 223.
-(pdftex.def)             Requested size: 271.39297pt x 121.7316pt.
-LaTeX Font Info:    Font shape `U/BOONDOX-cal/m/n' will be
-(Font)              scaled to size 11.49753pt on input line 254.
-LaTeX Font Info:    Font shape `U/BOONDOX-cal/m/n' will be
-(Font)              scaled to size 8.40002pt on input line 254.
-LaTeX Font Info:    Font shape `U/BOONDOX-cal/m/n' will be
-(Font)              scaled to size 6.30002pt on input line 254.
+l.256 	M
+        ột nhóm học sinh lớp 12A một trường THPT thực hiện t...
 File: ../extra/Logo.png Graphic file (type png)
 <use ../extra/Logo.png>
-Package pdftex.def Info: ../extra/Logo.png  used on input line 261.
+Package pdftex.def Info: ../extra/Logo.png  used on input line 260.
 (pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
-[3 <../figs/FINAL-SEM1-004-6.jpg> <../figs/FINAL-SEM1-004-7.jpg>]
-<../figs/FINAL-SEM1-004-8.jpg, id=112, 364.36125pt x 244.41313pt>
-File: ../figs/FINAL-SEM1-004-8.jpg Graphic file (type jpg)
-<use ../figs/FINAL-SEM1-004-8.jpg>
-Package pdftex.def Info: ../figs/FINAL-SEM1-004-8.jpg  used on input line 272.
-(pdftex.def)             Requested size: 145.74191pt x 97.7635pt.
+[5 <../figs/FINAL-SEM1-005-8.jpg>]
+<../figs/FINAL-SEM1-005-10.jpg, id=118, 700.6175pt x 179.16937pt>
+File: ../figs/FINAL-SEM1-005-10.jpg Graphic file (type jpg)
+<use ../figs/FINAL-SEM1-005-10.jpg>
+Package pdftex.def Info: ../figs/FINAL-SEM1-005-10.jpg  used on input line 261.
+
+(pdftex.def)             Requested size: 350.30789pt x 89.58446pt.
+<../figs/FINAL-SEM1-005-11.jpg, id=119, 195.73125pt x 158.5925pt>
+File: ../figs/FINAL-SEM1-005-11.jpg Graphic file (type jpg)
+<use ../figs/FINAL-SEM1-005-11.jpg>
+Package pdftex.def Info: ../figs/FINAL-SEM1-005-11.jpg  used on input line 300.
+
+(pdftex.def)             Requested size: 97.86537pt x 79.29604pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{ex.3}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.272 ...ics[scale=0.4]{../figs/FINAL-SEM1-004-8}}
+l.300 ...cs[scale=0.5]{../figs/FINAL-SEM1-005-11}}
                                                   
-File: ../figs/FINAL-SEM1-004-8.jpg Graphic file (type jpg)
-<use ../figs/FINAL-SEM1-004-8.jpg>
-Package pdftex.def Info: ../figs/FINAL-SEM1-004-8.jpg  used on input line 272.
-(pdftex.def)             Requested size: 145.74191pt x 97.7635pt.
-<../figs/FINAL-SEM1-004-9.jpg, id=113, 197.73875pt x 116.435pt>
-File: ../figs/FINAL-SEM1-004-9.jpg Graphic file (type jpg)
-<use ../figs/FINAL-SEM1-004-9.jpg>
-Package pdftex.def Info: ../figs/FINAL-SEM1-004-9.jpg  used on input line 283.
-(pdftex.def)             Requested size: 118.64417pt x 69.86153pt.
+File: ../extra/Logo.png Graphic file (type png)
+<use ../extra/Logo.png>
+Package pdftex.def Info: ../extra/Logo.png  used on input line 300.
+(pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
+ [6
+pdfTeX warning (ext4): destination with the same identifier (name{enumi.4}) has
+ been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.300 ...cs[scale=0.5]{../figs/FINAL-SEM1-005-11}}
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{enumi.4}) has
+ been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.300 ...cs[scale=0.5]{../figs/FINAL-SEM1-005-11}}
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{enumi.4}) has
+ been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.300 ...cs[scale=0.5]{../figs/FINAL-SEM1-005-11}}
+                                                   <../figs/FINAL-SEM1-005-10.j
+pg>]
+File: ../figs/FINAL-SEM1-005-11.jpg Graphic file (type jpg)
+<use ../figs/FINAL-SEM1-005-11.jpg>
+Package pdftex.def Info: ../figs/FINAL-SEM1-005-11.jpg  used on input line 300.
+
+(pdftex.def)             Requested size: 97.86537pt x 79.29604pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{enumi.4}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.312 	\end{itemchoice}}
+                        
+pdfTeX warning (ext4): destination with the same identifier (name{enumi.4}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.312 	\end{itemchoice}}
+                        
+pdfTeX warning (ext4): destination with the same identifier (name{enumi.4}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.312 	\end{itemchoice}}
+                        
+pdfTeX warning (ext4): destination with the same identifier (name{enumi.4}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.312 	\end{itemchoice}}
+                        
+<../figs/FINAL-SEM1-005-12.jpg, id=126, 501.875pt x 276.03125pt>
+File: ../figs/FINAL-SEM1-005-12.jpg Graphic file (type jpg)
+<use ../figs/FINAL-SEM1-005-12.jpg>
+Package pdftex.def Info: ../figs/FINAL-SEM1-005-12.jpg  used on input line 317.
+
+(pdftex.def)             Requested size: 125.46843pt x 69.00763pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{ex.4}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.283 ...ics[scale=0.6]{../figs/FINAL-SEM1-004-9}}
+l.317 ...s[scale=0.25]{../figs/FINAL-SEM1-005-12}}
                                                   
-File: ../figs/FINAL-SEM1-004-9.jpg Graphic file (type jpg)
-<use ../figs/FINAL-SEM1-004-9.jpg>
-Package pdftex.def Info: ../figs/FINAL-SEM1-004-9.jpg  used on input line 283.
-(pdftex.def)             Requested size: 118.64417pt x 69.86153pt.
+File: ../figs/FINAL-SEM1-005-12.jpg Graphic file (type jpg)
+<use ../figs/FINAL-SEM1-005-12.jpg>
+Package pdftex.def Info: ../figs/FINAL-SEM1-005-12.jpg  used on input line 317.
 
-Output from handle ans going to ans/FINAL-SEM1-004-TL.tex
-\openout10 = `ans/FINAL-SEM1-004-TL.tex'.
+(pdftex.def)             Requested size: 125.46843pt x 69.00763pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{enumi.4}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.329 	\end{itemchoice}}
+                        
+pdfTeX warning (ext4): destination with the same identifier (name{enumi.4}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.329 	\end{itemchoice}}
+                        
+pdfTeX warning (ext4): destination with the same identifier (name{enumi.4}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.329 	\end{itemchoice}}
+                        
+pdfTeX warning (ext4): destination with the same identifier (name{enumi.4}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.329 	\end{itemchoice}}
+                        
+File: ../extra/Logo.png Graphic file (type png)
+<use ../extra/Logo.png>
+Package pdftex.def Info: ../extra/Logo.png  used on input line 329.
+(pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
+ [7{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <../f
+igs/FINAL-SEM1-005-11.jpg> <../figs/FINAL-SEM1-005-12.jpg>]
+pdfTeX warning (ext4): destination with the same identifier (name{section.0.3})
+ has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.332 ...{Câu trắc nghiệm trả lời ngắn}
+                                                   \textit{Thí sinh trả l...
+Output from handle ans going to ans/FINAL-SEM1-005-TL.tex
+\openout10 = `ans/FINAL-SEM1-005-TL.tex'.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{ex.1}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.297 	M
-        ột bình chứa oxygen xem là khí lý tưởng sử dụng trong...
-File: ../extra/Logo.png Graphic file (type png)
-<use ../extra/Logo.png>
-Package pdftex.def Info: ../extra/Logo.png  used on input line 297.
-(pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
-[4 <../figs/FINAL-SEM1-004-8.jpg> <../figs/FINAL-SEM1-004-9.jpg>]
-<../figs/FINAL-SEM1-004-10.jpg, id=122, 752.8125pt x 470.75874pt>
-File: ../figs/FINAL-SEM1-004-10.jpg Graphic file (type jpg)
-<use ../figs/FINAL-SEM1-004-10.jpg>
-Package pdftex.def Info: ../figs/FINAL-SEM1-004-10.jpg  used on input line 306.
-
-(pdftex.def)             Requested size: 112.91699pt x 70.61076pt.
+l.337 	M
+        ột nhóm học sinh tiến hành thí nghiệm giao thoa ánh sán...
 
 pdfTeX warning (ext4): destination with the same identifier (name{ex.2}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.306 ...s[scale=0.15]{../figs/FINAL-SEM1-004-10}}
-                                                  
-File: ../figs/FINAL-SEM1-004-10.jpg Graphic file (type jpg)
-<use ../figs/FINAL-SEM1-004-10.jpg>
-Package pdftex.def Info: ../figs/FINAL-SEM1-004-10.jpg  used on input line 306.
+l.345 	X
+        e ô tô điện VF6 của hãng xe Vinfat sử dụng loại pin ho...
+<../figs/FINAL-SEM1-005-13.png, id=135, 1541.76pt x 867.24pt>
+File: ../figs/FINAL-SEM1-005-13.png Graphic file (type png)
+<use ../figs/FINAL-SEM1-005-13.png>
+Package pdftex.def Info: ../figs/FINAL-SEM1-005-13.png  used on input line 347.
 
-(pdftex.def)             Requested size: 112.91699pt x 70.61076pt.
+(pdftex.def)             Requested size: 92.5016pt x 52.03215pt.
+File: ../figs/FINAL-SEM1-005-13.png Graphic file (type png)
+<use ../figs/FINAL-SEM1-005-13.png>
+Package pdftex.def Info: ../figs/FINAL-SEM1-005-13.png  used on input line 347.
+
+(pdftex.def)             Requested size: 92.5016pt x 52.03215pt.
+<../figs/FINAL-SEM1-005-14.png, id=136, 481.8pt x 279.29344pt>
+File: ../figs/FINAL-SEM1-005-14.png Graphic file (type png)
+<use ../figs/FINAL-SEM1-005-14.png>
+Package pdftex.def Info: ../figs/FINAL-SEM1-005-14.png  used on input line 360.
+
+(pdftex.def)             Requested size: 96.35829pt x 55.8577pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{ex.3}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.314 Đ
-        ặt \SI{1.0}{\kilogram} nước ở \SI{25}{\celsius} vào tủ l�...
+l.360 ...cs[scale=0.2]{../figs/FINAL-SEM1-005-14}}
+                                                  
+File: ../figs/FINAL-SEM1-005-14.png Graphic file (type png)
+<use ../figs/FINAL-SEM1-005-14.png>
+Package pdftex.def Info: ../figs/FINAL-SEM1-005-14.png  used on input line 360.
+
+(pdftex.def)             Requested size: 96.35829pt x 55.8577pt.
+<../figs/FINAL-SEM1-005-15.jpg, id=137, 643.203pt x 307.8702pt>
+File: ../figs/FINAL-SEM1-005-15.jpg Graphic file (type jpg)
+<use ../figs/FINAL-SEM1-005-15.jpg>
+Package pdftex.def Info: ../figs/FINAL-SEM1-005-15.jpg  used on input line 371.
+
+(pdftex.def)             Requested size: 160.80035pt x 76.96735pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{ex.4}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.322 	M
-        ột ống nghiệm tiết diện đều có chiều dài \SI{60}{\c...
-<../figs/FINAL-SEM1-004-11.jpg, id=123, 117.94063pt x 174.6525pt>
-File: ../figs/FINAL-SEM1-004-11.jpg Graphic file (type jpg)
-<use ../figs/FINAL-SEM1-004-11.jpg>
-Package pdftex.def Info: ../figs/FINAL-SEM1-004-11.jpg  used on input line 329.
+l.371 ...s[scale=0.25]{../figs/FINAL-SEM1-005-15}}
+                                                  
+File: ../figs/FINAL-SEM1-005-15.jpg Graphic file (type jpg)
+<use ../figs/FINAL-SEM1-005-15.jpg>
+Package pdftex.def Info: ../figs/FINAL-SEM1-005-15.jpg  used on input line 371.
 
-(pdftex.def)             Requested size: 70.76491pt x 104.7923pt.
-File: ../figs/FINAL-SEM1-004-11.jpg Graphic file (type jpg)
-<use ../figs/FINAL-SEM1-004-11.jpg>
-Package pdftex.def Info: ../figs/FINAL-SEM1-004-11.jpg  used on input line 329.
+(pdftex.def)             Requested size: 160.80035pt x 76.96735pt.
 
-(pdftex.def)             Requested size: 70.76491pt x 104.7923pt.
+Underfull \vbox (badness 1824) has occurred while \output is active []
 
+File: ../extra/Logo.png Graphic file (type png)
+<use ../extra/Logo.png>
+Package pdftex.def Info: ../extra/Logo.png  used on input line 372.
+(pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
+ [8 <../figs/FINAL-SEM1-005-13.png> <../figs/FINAL-SEM1-005-14.png>]
 pdfTeX warning (ext4): destination with the same identifier (name{ex.5}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.332 	C
-        ảm ứng từ $B$ có độ lớn là $\xsi{x \cdot 10^{-4}}{\tesl...
+l.383 	M
+        ột khối khí có thể tích 3 lít, được cung cấp một n...
+<../figs/FINAL-SEM1-005-16.jpg, id=144, 602.25pt x 401.24907pt>
+File: ../figs/FINAL-SEM1-005-16.jpg Graphic file (type jpg)
+<use ../figs/FINAL-SEM1-005-16.jpg>
+Package pdftex.def Info: ../figs/FINAL-SEM1-005-16.jpg  used on input line 393.
+
+(pdftex.def)             Requested size: 90.33359pt x 60.18475pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{ex.6}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.340 	Đ
-         ổi chiều dòng điện nhưng độ lớn vẫn không đổi. ...
+l.393 ...s[scale=0.15]{../figs/FINAL-SEM1-005-16}}
+                                                  
+File: ../figs/FINAL-SEM1-005-16.jpg Graphic file (type jpg)
+<use ../figs/FINAL-SEM1-005-16.jpg>
+Package pdftex.def Info: ../figs/FINAL-SEM1-005-16.jpg  used on input line 393.
+
+(pdftex.def)             Requested size: 90.33359pt x 60.18475pt.
 )
 \tf@thm=\write11
 \openout11 = `MAIN.thm'.
 
 File: ../extra/Logo.png Graphic file (type png)
 <use ../extra/Logo.png>
-Package pdftex.def Info: ../extra/Logo.png  used on input line 50.
+Package pdftex.def Info: ../extra/Logo.png  used on input line 75.
 (pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
- [5 <../figs/FINAL-SEM1-004-10.jpg> <../figs/FINAL-SEM1-004-11.jpg>]
-(./MAIN.aux)
+ [9 <../figs/FINAL-SEM1-005-15.jpg> <../figs/FINAL-SEM1-005-16.jpg>] (./MAIN.au
+x)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
-Package rerunfilecheck Info: File `MAIN.out' has not changed.
-(rerunfilecheck)             Checksum: A5442DE9F41E38BC43DB11816D8C5480;697.
+
+
+Package rerunfilecheck Warning: File `MAIN.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `MAIN.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  4F7AC2A620D9E0E9FFC5EBDD221706DA;805.
  ) 
 Here is how much of TeX's memory you used:
- 72938 strings out of 474116
- 1823395 string characters out of 5747718
- 2717130 words of memory out of 5000000
- 94155 multiletter control sequences out of 15000+600000
- 570747 words of font info for 71 fonts, out of 8000000 for 9000
+ 73109 strings out of 474116
+ 1827739 string characters out of 5747718
+ 2737174 words of memory out of 5000000
+ 94296 multiletter control sequences out of 15000+600000
+ 579698 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,17n,121p,1198b,1181s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/tex
-live/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/v
-nr/vnbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnbxti10.pfb><c
-:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnr10.pfb><c:/texlive/2024/texm
-f-dist/fonts/type1/vntex/vnr/vnti10.pfb><c:/texlive/2024/texmf-dist/fonts/type1
-/public/boondox/zxxrw8a.pfb>
-Output written on MAIN.pdf (5 pages, 674163 bytes).
+ 117i,21n,121p,1198b,1456s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/tex
+live/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2024
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2024/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pf
+b><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c
+:/texlive/2024/texmf-dist/fonts/type1/public/tex-gyre/qcsr.pfb><c:/texlive/2024
+/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><c:/texlive/2024/texmf-dis
+t/fonts/type1/vntex/vnr/vnbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vnte
+x/vnr/vnbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnbxti10.pfb
+><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnr10.pfb><c:/texlive/2024/t
+exmf-dist/fonts/type1/vntex/vnr/vnr8.pfb><c:/texlive/2024/texmf-dist/fonts/type
+1/vntex/vnr/vnti10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/boondox/z
+xxrw8a.pfb>
+Output written on MAIN.pdf (9 pages, 2408235 bytes).
 PDF statistics:
- 183 PDF objects out of 1000 (max. 8388607)
- 117 compressed objects within 2 object streams
- 37 named destinations out of 1000 (max. 500000)
- 241 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 238 PDF objects out of 1000 (max. 8388607)
+ 146 compressed objects within 2 object streams
+ 40 named destinations out of 1000 (max. 500000)
+ 237 words of extra memory for PDF output out of 10000 (max. 10000000)
 
